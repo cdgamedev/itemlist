@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "0",
+    "version": "4.0.7.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCreator",
+    "steamId": "2099493475",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitPawnQueue",
+    "steamId": "2073156511",
+    "version": "1.0.0.0"
+  }
+]
